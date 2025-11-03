@@ -1,5 +1,12 @@
 # Tugas Praktikum 6 (Pertemuan ke 7) <img src=https://qph.fs.quoracdn.net/main-qimg-648763cc041459725b62108f4fdf5b91 width="110px">
 
+|Nama|NIM|Kelas|Mata Kuliah|
+|----|---|-----|------|
+|**Radityatama Nugraha**|**312310644**|**TI.23.A3**|**Manajemen Basis Data**|
+
+# Soal 1:
+![gambar](Ss_Manajemen_Basis_Data_Pertemuan7/ss1_pertemuan7.png)
+
 ## - Tabel: Tamu
 |Nama Atribut|Tipe Data|Keterangan|
 |----|---|-----|
@@ -63,9 +70,6 @@
 |**jabatan**|**VARCHAR(50)**|**Posisi kerja**|
 |**shift**|**VARCHAR(20)**|**Shift kerja**|
 |**kontak**|**VARCHAR(20)**|**Nomor kontak**|
-
-
-
 
 
 
