@@ -5,7 +5,7 @@
 |**Radityatama Nugraha**|**312310644**|**TI.23.A3**|**Manajemen Basis Data**|
 
 # Soal 1:
-![gambar](/ss1_pertemuan7.png)
+![gambar](Ss_Manajemen_Basis_Data_Pertemuan7/ss1_pertemuan7.png)
 
 ## - Tabel: Tamu
 |Nama Atribut|Tipe Data|Keterangan|
@@ -71,5 +71,6 @@
 |**shift**|**VARCHAR(20)**|**Shift kerja**|
 |**kontak**|**VARCHAR(20)**|**Nomor kontak**|
 
-
+# ERD:
+![gambar](Ss_Manajemen_Basis_Data_Pertemuan7/ss2_pertemuan7.png)
 
